@@ -1,0 +1,3 @@
+artless-core
+gunicorn
+jinja2
